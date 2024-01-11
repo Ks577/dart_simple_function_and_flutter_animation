@@ -5,7 +5,6 @@ Widget CustomCard({required child}) {
     elevation: 5,
     shadowColor: Colors.orange[300],
     color: Colors.black38,
-    child: Container(width: 300, height: 200,
-    child:child)
+    child: Container(width: 300, height: 200, child: child),
   );
 }
